@@ -1,0 +1,6 @@
+id=wireguard-tools-nelshh
+name=wireguard-tools for Android
+version=v1.0.20200827
+versionCode=1
+author=nelshh
+description=A statically built version of the wireguard-tools tool for android (aarch64)
